@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2D-Arrays/2D-Arrays.iml" filepath="$PROJECT_DIR$/2D-Arrays/2D-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance Problems Of Arr/Advance Problems Of Arr.iml" filepath="$PROJECT_DIR$/Advance Problems Of Arr/Advance Problems Of Arr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arraylist/Arraylist.iml" filepath="$PROJECT_DIR$/Arraylist/Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments-DSA.iml" filepath="$PROJECT_DIR$/Assignments-DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/BS-SearchInRotatedSortedArr/BS-SearchInRotatedSortedArr.iml" filepath="$PROJECT_DIR$/untitled/BS-SearchInRotatedSortedArr/BS-SearchInRotatedSortedArr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchAlgo/BinarySearchAlgo.iml" filepath="$PROJECT_DIR$/BinarySearchAlgo/BinarySearchAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Imp Arr Problems/Imp Arr Problems.iml" filepath="$PROJECT_DIR$/Imp Arr Problems/Imp Arr Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrixProblems/MatrixProblems.iml" filepath="$PROJECT_DIR$/MatrixProblems/MatrixProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prefix Sum/Prefix Sum.iml" filepath="$PROJECT_DIR$/Prefix Sum/Prefix Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problems on Sorting Algo/Problems on Sorting Algo.iml" filepath="$PROJECT_DIR$/Problems on Sorting Algo/Problems on Sorting Algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemsBasedOnBinarySearch/ProblemsBasedOnBinarySearch.iml" filepath="$PROJECT_DIR$/ProblemsBasedOnBinarySearch/ProblemsBasedOnBinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion On Arrays &amp; Strings/Recursion On Arrays &amp; Strings.iml" filepath="$PROJECT_DIR$/Recursion On Arrays &amp; Strings/Recursion On Arrays &amp; Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionOnArrays/RecursionOnArrays.iml" filepath="$PROJECT_DIR$/RecursionOnArrays/RecursionOnArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionOnStrings/RecursionOnStrings.iml" filepath="$PROJECT_DIR$/RecursionOnStrings/RecursionOnStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion_SubSequence/Recursion_SubSequence.iml" filepath="$PROJECT_DIR$/Recursion_SubSequence/Recursion_SubSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RotatedBinarySearch/RotatedBinarySearch.iml" filepath="$PROJECT_DIR$/RotatedBinarySearch/RotatedBinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoPointers/TwoPointers.iml" filepath="$PROJECT_DIR$/TwoPointers/TwoPointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ansValuePatternBinarySearch/ansValuePatternBinarySearch.iml" filepath="$PROJECT_DIR$/ansValuePatternBinarySearch/ansValuePatternBinarySearch.iml" />
+    </modules>
+  </component>
+</project>
