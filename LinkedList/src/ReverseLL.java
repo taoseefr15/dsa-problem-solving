@@ -16,6 +16,21 @@ public class ReverseLL {
         return newHead;
     }
 
+    public static Node revUsingPointers(Node head){
+        Node curr = head;
+        Node prev = null;
+        Node after = null;
+
+        while(curr != null){
+            after = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = after;
+        }
+       return prev;
+    }
+
+
     public static void displayRev(Node head){
         if(head == null) return;
         displayRev(head.next);
@@ -41,10 +56,11 @@ public class ReverseLL {
         c.next = d;
         d.next = e;
         e.next = f;
-//        displayRev(a);
         display(a);
-        Node q = reverse(a);
-        display(q);
+//        Node q = reverse(a);
+//        display(q);
+        Node p = revUsingPointers(a);
+        display(p);
 
     }
 }
