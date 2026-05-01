@@ -9,7 +9,7 @@ public class ReverseLL {
     }
 
     public static Node reverse(Node head){
-        if(head == null) return head;
+        if(head.next == null) return head;
         Node newHead = reverse(head.next);
         head.next.next = head;
         head.next = null;
@@ -43,7 +43,6 @@ public class ReverseLL {
         e.next = f;
 //        displayRev(a);
         display(a);
-        System.out.println();
         Node q = reverse(a);
         display(q);
 
