@@ -41,8 +41,11 @@ public class ReverseLL {
         c.next = d;
         d.next = e;
         e.next = f;
-        displayRev(a);
-        System.out.println();
+//        displayRev(a);
         display(a);
+        System.out.println();
+        Node q = reverse(a);
+        display(q);
+
     }
 }
