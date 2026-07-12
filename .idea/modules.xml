@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/Assignments-DSA.iml" filepath="$PROJECT_DIR$/Assignments-DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/BS-SearchInRotatedSortedArr/BS-SearchInRotatedSortedArr.iml" filepath="$PROJECT_DIR$/untitled/BS-SearchInRotatedSortedArr/BS-SearchInRotatedSortedArr.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearchAlgo/BinarySearchAlgo.iml" filepath="$PROJECT_DIR$/BinarySearchAlgo/BinarySearchAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Companies/Companies.iml" filepath="$PROJECT_DIR$/Companies/Companies.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic-Programming/Dynamic-Programming.iml" filepath="$PROJECT_DIR$/Dynamic-Programming/Dynamic-Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/Imp Arr Problems/Imp Arr Problems.iml" filepath="$PROJECT_DIR$/Imp Arr Problems/Imp Arr Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCodeProblems/LeetCodeProblems.iml" filepath="$PROJECT_DIR$/LeetCodeProblems/LeetCodeProblems.iml" />
@@ -26,8 +28,11 @@
       <module fileurl="file://$PROJECT_DIR$/Recursion_SubSequence/Recursion_SubSequence.iml" filepath="$PROJECT_DIR$/Recursion_SubSequence/Recursion_SubSequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/RotatedBinarySearch/RotatedBinarySearch.iml" filepath="$PROJECT_DIR$/RotatedBinarySearch/RotatedBinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/STACK-Problems/STACK-Problems.iml" filepath="$PROJECT_DIR$/STACK-Problems/STACK-Problems.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Stack-InterviewProblems/Stack-InterviewProblems.iml" filepath="$PROJECT_DIR$/Stack-InterviewProblems/Stack-InterviewProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STACKS-Expressions/STACKS-Expressions.iml" filepath="$PROJECT_DIR$/STACKS-Expressions/STACKS-Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STACKS-InterviewProblems/STACKS-InterviewProblems.iml" filepath="$PROJECT_DIR$/STACKS-InterviewProblems/STACKS-InterviewProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding_Window/Sliding_Window.iml" filepath="$PROJECT_DIR$/Sliding_Window/Sliding_Window.iml" />
       <module fileurl="file://$PROJECT_DIR$/String-Problems/String-Problems.iml" filepath="$PROJECT_DIR$/String-Problems/String-Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Companies/TCS/TCS.iml" filepath="$PROJECT_DIR$/Companies/TCS/TCS.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoPointers/TwoPointers.iml" filepath="$PROJECT_DIR$/TwoPointers/TwoPointers.iml" />
       <module fileurl="file://$PROJECT_DIR$/ansValuePatternBinarySearch/ansValuePatternBinarySearch.iml" filepath="$PROJECT_DIR$/ansValuePatternBinarySearch/ansValuePatternBinarySearch.iml" />
     </modules>

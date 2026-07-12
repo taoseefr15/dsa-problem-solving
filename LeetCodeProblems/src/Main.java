@@ -1,13 +1,32 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-void main() {
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-    // to see how IntelliJ IDEA suggests fixing it.
-    IO.println(String.format("Hello and welcome!"));
+public class Main {
+    public static void SumMulti(int n){
+        int sum = 0, x = 0;
+        int rev = 0, place = 1;
 
-    for (int i = 1; i <= 5; i++) {
-        //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-        // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        IO.println("i = " + i);
+        while(n>0){
+            int dig = n%10;
+            if(dig != 0){
+                x = dig*place + x;
+                place *= 10;
+                sum += dig;
+            }
+            n /= 10;
+        }
+
+        System.out.println(x);
+        System.out.println(sum*x);
+
+    }
+    public static void main(String[] args) {
+        String a = "100000";
+        String b = "100000";
+        int  n = 10203004;
+        long num = Long.parseLong(a);
+        long num1 = Long.parseLong(b);
+        long multi = num * num1;
+
+        String str = String.valueOf(multi);
+        System.out.println(str);
+        SumMulti(n);
     }
 }
