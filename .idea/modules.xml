@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/Sliding_Window/Sliding_Window.iml" filepath="$PROJECT_DIR$/Sliding_Window/Sliding_Window.iml" />
       <module fileurl="file://$PROJECT_DIR$/String-Problems/String-Problems.iml" filepath="$PROJECT_DIR$/String-Problems/String-Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Companies/TCS/TCS.iml" filepath="$PROJECT_DIR$/Companies/TCS/TCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree_Problems/Tree_Problems.iml" filepath="$PROJECT_DIR$/Tree_Problems/Tree_Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoPointers/TwoPointers.iml" filepath="$PROJECT_DIR$/TwoPointers/TwoPointers.iml" />
       <module fileurl="file://$PROJECT_DIR$/ansValuePatternBinarySearch/ansValuePatternBinarySearch.iml" filepath="$PROJECT_DIR$/ansValuePatternBinarySearch/ansValuePatternBinarySearch.iml" />
     </modules>

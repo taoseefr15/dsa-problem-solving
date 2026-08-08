@@ -1,4 +1,4 @@
-public class HouseRobber {
+public class HouseRobber_I {
 
     public static int rob(int[] a){
         int n = a.length;

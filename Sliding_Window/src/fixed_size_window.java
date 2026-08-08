@@ -13,6 +13,6 @@ public class fixed_size_window {
     public static void main(String[] args){
         String s = "abcabc";
 
-        fixeSize(s,1);
+        fixeSize(s,2);
     }
 }

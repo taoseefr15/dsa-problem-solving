@@ -1,4 +1,14 @@
 public class Main {
+    public static void buyAndSell(int[] a){
+        int[] ans = new int[a.length];
+        int val1 = a[0];
+        int max = 0;
+        for(int i=1; i<a.length; i++){
+            int curr = a[i];
+
+        }
+
+    }
     public static void SumMulti(int n){
         int sum = 0, x = 0;
         int rev = 0, place = 1;
